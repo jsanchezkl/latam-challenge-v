@@ -1,0 +1,4 @@
+memory-profiler==0.61.0
+re==3.11
+typing==3.5
+collections==3.3
